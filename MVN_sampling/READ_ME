@@ -1,0 +1,3 @@
+StructureSampling.py contains the functions
+MVN_sampling_and_distance_calculation.ipynb is the jupyter notebook that perform the sampling
+interactoin matrix are stored in npy files.(with intmat or inter_mat in their names)
