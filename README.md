@@ -7,6 +7,6 @@ Contains the chromosome tracing files used for analysis.
 Includes the scripts and datasets used for the modeling part of the project.
 
 3) Chromosome_tracing  
-Contains the scripts used to analyze the chromosome tracing data.
+Contains the scripts used to analyze the chromosome tracing data. The scripts were tested using MATLAB R2024b.
 
 Some of the scripts were adapted and modified from Sawh et al., 2020. Please refer to individual script headers for additional details on modifications and usage.
