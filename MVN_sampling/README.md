@@ -9,4 +9,4 @@ StructureSampling.py contains the functions used in MVN_sampling_and_distance_ca
 Please install python and jupyter notebook. 
 Please install the packages imported in StructureSampling.py and MVN_sampling_and_distance_calculation.ipynb.
 
-With sample size 10,000, the code should run instantaneous, except for the the first run of torch.distributions.MultivariateNormal of each jupyter notebook section, which is still under 1 minute on a typical PC.
+With sample size 10,000, the code should run instantaneous, except for the the first run of torch.distributions.MultivariateNormal (under StructureSampling.generate_coordinates) of each jupyter notebook section, which is still under 1 minute on a typical PC.
