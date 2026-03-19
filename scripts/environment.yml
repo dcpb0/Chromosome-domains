@@ -1,0 +1,21 @@
+name: chromatin_analysis
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - scanpy
+  - jupyter
+  - ipykernel
+  - h5py
+  - cooler
+  - pip
+  - pip:
+      - pycircos
